@@ -1,0 +1,15 @@
+CX 4230 Computer Simulation 
+Prof. Vuduc 
+Project 4: Exploring Neural Connectivity  
+Problem Description
+ 
+The purpose of this project is to analyze the connectivity of a neural cluster. The neural cluster will be made from scratch using
+the Hodgkin-Huxley model. This mathematical model provides a set of nonlinear differential equations to reproduce the realistic
+propagation of action potentials within neurons. This model will allow us to account for physical chemistry and electrical conductance
+of a single neuron. In the first stage of the application development, we will develop a single neuron according to this model.
+After successfully generating multiple standalone neurons, the cells will be linked together to form a cluster. We aim to simulate
+the neural cluster to answer the following questions: 
+1. How quickly does information propagate from the first cell to the last neural cell? 
+ 
+2. Is there a specific configuration of cells that increases the rate of information propagation?
+For example, how much more quickly does information get sent if cells are chained in a list versus a tree structure? 
